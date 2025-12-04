@@ -7,7 +7,7 @@
 
 <!-- Name Header -->
 <h1 align="center">✨ Hey , I'm <span style="color:#00E5FF;">Aryan Sarvaiya</span> ✨</h1>
-<h3 align="center">Cloud & DevOps Enthusiast | BCA (Hons.) Cloud Computing | 🇮🇳 India</h3>
+<h3 align="center">Cloud & DevOps Enthusiast | BCA (Hons.) Cloud Computing </h3>
 
 ---
 
@@ -39,7 +39,7 @@ In the future, I aim to become a **DevOps Engineer / Cloud Engineer**, focusing 
 
 ---
 
-## 🔥 Projects  
+## 🔥 Repositories
 Here are some of the projects I’m actively working on:
 
 | 🚀 Project Name | 🔧 Tech | 📌 Description |
