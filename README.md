@@ -50,7 +50,7 @@ Here are some of the projects I’m actively working on:
 
 ---
 
-## ⚡ GitHub Stats (Premium UI)
+## ⚡ GitHub Stats 
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aryan13-tech&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -63,7 +63,7 @@ Here are some of the projects I’m actively working on:
 
 ---
 
-## 📊 Contribution Graph (Neon Mode)
+## 📊 Contribution Graph 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan13-tech&theme=react-dark&area=true&hide_border=true" />
 </p>
