@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 About Me  
-I'm currently in my **3rd year of BCA (Hons.) in Cloud Computing**, building a strong foundation in **Linux, AWS, DevOps, automation, and cloud-native technologies**.
+I'm currently in my **4th year of BCA (Hons.) in Cloud Computing**, building a strong foundation in **Linux, AWS, DevOps, automation, and cloud-native technologies**.
 
 I love learning by doing — creating hands-on projects, improving workflows, and documenting everything publicly.
 
