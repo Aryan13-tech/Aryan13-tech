@@ -39,30 +39,6 @@ In the future, I aim to become a **DevOps Engineer / Cloud Engineer**, focusing 
 
 ---
 
-## 🔥 Repositories
-Here are some of the projects I’m actively working on:
-
-| 🚀 Project Name | 🔧 Tech | 📌 Description |
-|----------------|---------|----------------|
-| **Portfolio Website** | HTML, CSS, JS | My personal portfolio showcasing my work. |
-| **DevOps Project** | Git, Docker, CI/CD | A collection of DevOps tasks, workflows & automation practice. |
-| **60 Days of DevOps** | Linux, Git, Jenkins, AWS | Documenting my DevOps journey every day. |
-
----
-
-## ⚡ GitHub Stats 
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aryan13-tech&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan13-tech&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan13-tech&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📊 Contribution Graph 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan13-tech&theme=react-dark&area=true&hide_border=true" />
