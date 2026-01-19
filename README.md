@@ -8,7 +8,7 @@
 
 <!-- Name Header -->
 <h1 align="center">✨ Hey , I'm <span style="color:#00E5FF;">Aryan Sarvaiya</span> ✨</h1>
-<h3 align="center">Cloud & DevOps Enthusiast | BCA (Hons.) Cloud Computing </h3>
+<h3 align="center">Cloud & DevOps Enthusiast </h3>
 
 ---
 
