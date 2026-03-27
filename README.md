@@ -1,64 +1,64 @@
-
-<!-- Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hey+There!+I'm+Aryan+Sarvaiya+👋;Cloud+%26+DevOps+Enthusiast;Linux+%7C+AWS+%7C+Docker+%7C+DevOps+Tools;Welcome+to+my+GitHub+Profile!">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a1c4fd,100:c2e9fb&height=220&section=header&text=Aryan%20Sarvaiya&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
----
-
-<!-- Name Header -->
-<h1 align="center">✨ Hey , I'm <span style="color:#00E5FF;">Aryan Sarvaiya</span> ✨</h1>
-<h3 align="center">Cloud & DevOps Enthusiast </h3>
-
----
-
-## 🚀 About Me  
-I'm currently in my **4th year of BCA (Hons.) in Cloud Computing**, building a strong foundation in **Linux, AWS, DevOps, automation, and cloud-native technologies**.
-
-I love learning by doing — creating hands-on projects, improving workflows, and documenting everything publicly.
-
-In the future, I aim to become a **DevOps Engineer / Cloud Engineer**, focusing on scalable cloud infrastructure, CI/CD automation, and DevOps tools.
-
----
-
-## 🧠 Skills & Technologies  
-
-### **💻 Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash" height="48" />
-</p>
-
-### **🛠 DevOps & Cloud**
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,linux" height="48" />
-</p>
-
-### **📂 Version Control & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="48" />
-</p>
-
----
-
-## 📊 Contribution Graph 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan13-tech&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6AA6F8&size=26&center=true&vCenter=true&width=700&lines=🚀+DevOps+Engineer;☁️+AWS+Cloud+Enthusiast;⚙️+CI%2FCD+Pipeline+Builder;🐳+Docker+%26+Linux+Lover;🔥+Automation+Focused" />
+</p>
+
+---
+
+## 🧾 About Me
+
+* 🎓 Completed Bachelor's degree in Cloud Computing
+* ☁️ Passionate about **Cloud & DevOps**
+* 🛠️ Skilled in **AWS, Docker, CI/CD, Linux**
+* 🚀 Building real-world DevOps projects
+* 🎯 Goal: Become a **DevOps / Cloud Engineer**
+
+---
+
+## ⚡ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,grafana,prometheus,linux" />
+</p>
+
+---
+
+## 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan13-tech&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20GitHub%20Activity%20Graph" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan13-tech&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan13-tech&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
-  <a href="mailto:sarvaiyaaryan675@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/Aryan13-tech">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+
+<a href="mailto:sarvaiyaaryan675@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Aryan13-tech">
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </p>
 
 ---
-
